@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1791237716,
+	"Version": 1791493278,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -55,13 +55,13 @@
 				"252",
 				"59",
 				"289",
+				"61",
 				"62",
 				"313",
 				"66",
 				"69",
 				"70",
 				"269",
-				"74",
 				"295",
 				"77",
 				"79",
@@ -242,6 +242,10 @@
 					"160",
 					"210",
 					"220"
+				],
+				[
+					"210",
+					"250"
 				]
 			]
 		},
@@ -499,14 +503,10 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"170",
 				"174"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"38"
 			],
@@ -2629,7 +2629,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"38"
 			],
 			"BalanceTiers": [
 				0,
@@ -2642,16 +2642,15 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [
-				4
+				4,
+				3
 			],
 			"IndividualAddonBans": [
 				635,
@@ -2659,7 +2658,9 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5
+				5,
+				7,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2674,7 +2675,11 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						0,
+						1,
+						2
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3184,6 +3189,7 @@
 				"34",
 				"38",
 				"279",
+				"50",
 				"62",
 				"81",
 				"82",
@@ -3191,6 +3197,7 @@
 				"91",
 				"93",
 				"96",
+				"92",
 				"111",
 				"117",
 				"119",
