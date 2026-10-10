@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1791493278,
+	"Version": 1791642392,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -17,6 +17,7 @@
 				"52",
 				"300",
 				"258",
+				"9",
 				"11",
 				"16",
 				"17",
@@ -46,6 +47,7 @@
 				"46",
 				"308",
 				"49",
+				"51",
 				"319",
 				"294",
 				"262",
@@ -429,6 +431,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"74",
 				"76"
 			],
 			"SurvivorComboPerkBans": [],
@@ -775,7 +778,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
-				"50"
+				"50",
+				"74"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -847,7 +851,9 @@
 				"178"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -921,7 +927,9 @@
 				"132"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -993,6 +1001,7 @@
 			"SurvivorIndvPerkBans": [
 				"279",
 				"50",
+				"74",
 				"76",
 				"36"
 			],
@@ -1067,7 +1076,9 @@
 				"204"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1219,12 +1230,7 @@
 			"KillerIndvPerkBans": [
 				"177"
 			],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"7",
 				"10",
@@ -1241,6 +1247,7 @@
 				"64",
 				"67",
 				"68",
+				"74",
 				"78",
 				"82",
 				"96",
@@ -1323,7 +1330,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1390,6 +1399,7 @@
 				"279",
 				"50",
 				"53",
+				"74",
 				"95",
 				"92",
 				"103",
@@ -1471,7 +1481,8 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"279"
+				"279",
+				"74"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1541,7 +1552,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"50"
+				"50",
+				"74"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1680,7 +1692,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"54",
+				"74",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1747,10 +1759,11 @@
 				0,
 				2
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"74",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1887,7 +1900,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -1985,6 +1998,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"67",
+				"74",
 				"121",
 				"36"
 			],
@@ -2116,6 +2130,7 @@
 				"101",
 				"50",
 				"61",
+				"74",
 				"76"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2188,7 +2203,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2262,7 +2279,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2339,6 +2358,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"74",
 				"128"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2414,6 +2434,7 @@
 				"279",
 				"50",
 				"67",
+				"74",
 				"76",
 				"92",
 				"109",
@@ -2694,8 +2715,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3022,6 +3042,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"50",
+				"74",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3191,6 +3212,7 @@
 				"279",
 				"50",
 				"62",
+				"74",
 				"81",
 				"82",
 				"89",
@@ -3450,7 +3472,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"74"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3532,6 +3556,7 @@
 				"50",
 				"61",
 				"65",
+				"74",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
