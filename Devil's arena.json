@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1791642392,
+	"Version": 1793214228,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -116,18 +116,20 @@
 				"270",
 				"134",
 				"136",
+				"137",
 				"138",
 				"139",
 				"140",
+				"141",
 				"315",
 				"146",
 				"147",
 				"144",
 				"255",
 				"149",
-				"150",
 				"153",
 				"155",
+				"156",
 				"266",
 				"162",
 				"276",
@@ -163,6 +165,7 @@
 				"317",
 				"195",
 				"198",
+				"199",
 				"202",
 				"203",
 				"151",
@@ -189,6 +192,7 @@
 				"225",
 				"226",
 				"227",
+				"229",
 				"231",
 				"232",
 				"235",
@@ -196,6 +200,7 @@
 				"238",
 				"250",
 				"251",
+				"240",
 				"257",
 				"241",
 				"242"
@@ -999,10 +1004,11 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"279",
 				"50",
 				"74",
-				"76",
+				"112",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1147,6 +1153,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"279",
 				"44",
 				"50",
@@ -1241,6 +1248,7 @@
 				"32",
 				"38",
 				"279",
+				"50",
 				"58",
 				"61",
 				"63",
@@ -1253,6 +1261,7 @@
 				"96",
 				"103",
 				"109",
+				"112",
 				"115",
 				"128"
 			],
@@ -1405,6 +1414,7 @@
 				"103",
 				"109",
 				"112",
+				"128",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1552,8 +1562,10 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"279",
 				"50",
-				"74"
+				"74",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1623,7 +1635,10 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"261",
-				"76"
+				"50",
+				"74",
+				"76",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2131,7 +2146,8 @@
 				"50",
 				"61",
 				"74",
-				"76"
+				"76",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2204,7 +2220,10 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"74"
+				"279",
+				"50",
+				"74",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
