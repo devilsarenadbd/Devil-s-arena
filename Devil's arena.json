@@ -1,6 +1,6 @@
 {
 	"Name": "Devils arena",
-	"Version": 1793214228,
+	"Version": 1794497825,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -436,8 +436,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"74",
-				"76"
+				"74"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1009,6 +1008,8 @@
 				"50",
 				"74",
 				"112",
+				"121",
+				"128",
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1691,7 +1692,7 @@
 		{
 			"Name": "The Deathslinger",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"5"
 			],
@@ -1762,7 +1763,7 @@
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
@@ -2519,7 +2520,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"4"
 			],
@@ -2553,7 +2554,8 @@
 				0,
 				5,
 				7,
-				14
+				14,
+				31
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2591,8 +2593,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3225,6 +3226,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"7",
+				"13",
 				"21",
 				"34",
 				"38",
@@ -3239,9 +3241,12 @@
 				"93",
 				"96",
 				"92",
+				"109",
 				"111",
 				"117",
 				"119",
+				"121",
+				"127",
 				"128",
 				"36"
 			],
